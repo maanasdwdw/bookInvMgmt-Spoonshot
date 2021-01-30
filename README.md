@@ -15,8 +15,8 @@ billing applications.
 4. For expandability, modules like pyrebase can be used to access the data that is pushed onto the database.
 
 ## How to run,
-Deployed [here](https://bim-spoonshot-maanas.herokuapp.com/).
- To run locally -             
+
+To run locally -             
 Create python venv, Install the requirements from the requirements.txt file, 
 These include Flask which is used to render the page.
 Then,    
